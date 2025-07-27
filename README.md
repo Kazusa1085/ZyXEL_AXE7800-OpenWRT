@@ -2,7 +2,7 @@
 
 ZyXEL EX5700设备的immwrt闭源固件，支持WiFi6E。
 
-**暂未测试，砖了后果自负。**
+**已通过测试，可以正常使用。自己刷砖了后果自负。**
 
 ## 刷机方案
 
@@ -32,6 +32,6 @@ ZyXEL EX5700设备的immwrt闭源固件，支持WiFi6E。
 
 
 
-/*Author：Ryuuka*/
+/*Author：Kazusa1085*/
 
-/*250605Draft*/
+/*250728Draft*/
